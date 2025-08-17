@@ -20,3 +20,6 @@
 # echo 'src-git openclash https://github.com/vernesong/OpenClash' >>feeds.conf.default
 # echo 'src-git adguardhome https://github.com/rufengsuixing/luci-app-adguardhome' >>feeds.conf.default
 # echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
+
+echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default                                    #kenzok8软件库
+echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default                                               #kenzok8软件库依赖
